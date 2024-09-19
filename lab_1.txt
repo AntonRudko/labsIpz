@@ -1,3 +1,5 @@
 hello
 I'm new in GIT
 Git is awesome
+
+GIT GIT GIT KIT
